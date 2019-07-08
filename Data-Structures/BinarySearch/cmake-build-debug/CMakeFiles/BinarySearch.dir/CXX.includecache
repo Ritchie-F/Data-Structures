@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/workspace/Data-Structures/BinarySearch/BinarySearch(recursive).h
+iostream
+-
+
+C:/workspace/Data-Structures/BinarySearch/BinarySearch.h
+iostream
+-
+
+C:/workspace/Data-Structures/BinarySearch/main.cpp
+iostream
+-
+cassert
+-
+ctime
+-
+BinarySearch.h
+C:/workspace/Data-Structures/BinarySearch/BinarySearch.h
+BinarySearch(recursive).h
+C:/workspace/Data-Structures/BinarySearch/BinarySearch(recursive).h
+

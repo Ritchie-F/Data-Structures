@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/AVLTree/AVLTree.iml" filepath="$PROJECT_DIR$/Data-Structures/AVLTree/AVLTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/Array/Array.iml" filepath="$PROJECT_DIR$/Data-Structures/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/BST/BST.iml" filepath="$PROJECT_DIR$/Data-Structures/BST/BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/Data-Structures/HashCode/HashCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/Data-Structures/HashTable/HashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Data-Structures/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/Map/Map.iml" filepath="$PROJECT_DIR$/Data-Structures/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/MaxHeap/MaxHeap.iml" filepath="$PROJECT_DIR$/Data-Structures/MaxHeap/MaxHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/Queue/Queue.iml" filepath="$PROJECT_DIR$/Data-Structures/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/Set/Set.iml" filepath="$PROJECT_DIR$/Data-Structures/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/Stack/Stack.iml" filepath="$PROJECT_DIR$/Data-Structures/Stack/Stack.iml" />
+    </modules>
+  </component>
+</project>

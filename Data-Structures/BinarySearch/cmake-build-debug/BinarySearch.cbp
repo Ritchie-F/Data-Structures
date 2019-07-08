@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BinarySearch"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/workspace/Data-Structures/BinarySearch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/workspace/Data-Structures/BinarySearch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BinarySearch">
+				<Option output="C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/BinarySearch.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/workspace/Data-Structures/BinarySearch/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 BinarySearch"/>
+					<CompileFile command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BinarySearch/fast">
+				<Option output="C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/BinarySearch.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/workspace/Data-Structures/BinarySearch/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+					<Add directory="c:\software\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 BinarySearch/fast"/>
+					<CompileFile command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/workspace/Data-Structures/BinarySearch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/software/mingw/bin/mingw32-make.exe -f &quot;C:/workspace/Data-Structures/BinarySearch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/workspace/Data-Structures/BinarySearch/BinarySearch(recursive).h">
+			<Option target="BinarySearch"/>
+		</Unit>
+		<Unit filename="C:/workspace/Data-Structures/BinarySearch/BinarySearch.h">
+			<Option target="BinarySearch"/>
+		</Unit>
+		<Unit filename="C:/workspace/Data-Structures/BinarySearch/main.cpp">
+			<Option target="BinarySearch"/>
+		</Unit>
+		<Unit filename="C:/workspace/Data-Structures/BinarySearch/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
